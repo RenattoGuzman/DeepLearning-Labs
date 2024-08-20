@@ -1,6 +1,7 @@
 # DeepLearning Lab 4
 
 - Renatto Esteban Guzmán Sosa 21646
+- Jennifer Michelle Toxcon Ordoñez 21276
 
 ### Descripción
 
